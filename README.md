@@ -22,6 +22,8 @@ Lab files below
 
 7)Lab_07: https://github.com/Aravindkaturi/AIML-lab/blob/main/Assignment_7.ipynb
 
+Other program below
+
 8) https://github.com/Aravindkaturi/AIML-lab/blob/main/program1.ipynb
 9) https://github.com/Aravindkaturi/AIML-lab/blob/main/program3.ipynb
 10) https://github.com/Aravindkaturi/AIML-lab/blob/main/program4.ipynb
