@@ -4,7 +4,7 @@ AIML Project
 
 Topic: News article categorization using Multinomial Naive Bayes model
 
-link: https://github.com/Aravindkaturi/AIML-lab/blob/main/AIML_project.ipynb
+Link: https://github.com/Aravindkaturi/AIML-lab/blob/main/AIML_project.ipynb
 
 Lab files below
 
@@ -21,6 +21,8 @@ Lab files below
 6)Lab_06: https://github.com/Aravindkaturi/AIML-lab/blob/main/Assignment_6.ipynb
 
 7)Lab_07: https://github.com/Aravindkaturi/AIML-lab/blob/main/Assignment_7.ipynb
+
+8)Lab_08: https://github.com/Aravindkaturi/AIML-lab/blob/main/Assignment_8.ipynb
 
 Other program below
 
